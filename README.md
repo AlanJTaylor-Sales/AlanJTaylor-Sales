@@ -28,3 +28,8 @@ This GitHub is a snapshot of how I think about:
 - Building pipeline
 - Closing complex deals
 - Using AI in modern sales workflows
+
+---
+
+## Closing Thought
+I don’t just sell—I build the systems and momentum that drive repeatable growth.
