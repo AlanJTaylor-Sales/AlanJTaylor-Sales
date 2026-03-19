@@ -1,16 +1,30 @@
-## Hi there 👋
+# AJ Taylor
 
-<!--
-**AlanJTaylor-Sales/AlanJTaylor-Sales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Enterprise Sales Leader | SaaS | AI | GTM Strategy**
 
-Here are some ideas to get you started:
+I build pipeline from scratch, close complex deals, and turn technical solutions into measurable business outcomes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I Focus On
+- Enterprise Sales
+- Pipeline Creation
+- GTM Strategy
+- Value-Based Selling
+- AI in Sales Workflows
+
+---
+
+## Portfolio & Work
+- Portfolio: [Paste your Notion link]
+- Sales Playbook: [Paste your repo link]
+- LinkedIn: [Paste your LinkedIn]
+- Email: alanjtaylor.1776@gmail.com
+
+---
+
+## What You’ll Find Here
+This GitHub is a snapshot of how I think about:
+- Building pipeline
+- Closing complex deals
+- Using AI in modern sales workflows
