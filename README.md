@@ -1,4 +1,4 @@
-# AJ Taylor
+# Alan J Taylor
 
 **Enterprise Sales Leader | SaaS | AI | GTM Strategy**
 
