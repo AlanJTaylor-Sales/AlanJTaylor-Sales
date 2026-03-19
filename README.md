@@ -16,9 +16,9 @@ I build pipeline from scratch, close complex deals, and turn technical solutions
 ---
 
 ## Portfolio & Work
-- Portfolio: [Paste your Notion link]
-- Sales Playbook: [Paste your repo link]
-- LinkedIn: [Paste your LinkedIn]
+- Portfolio: https://pentagonal-ranunculus-633.notion.site/Alan-J-Taylor-328f943cbbf080e99e47e97064bc694b?source=copy_link
+- Sales Playbook: https://github.com/AlanJTaylor-Sales
+- LinkedIn: https://www.linkedin.com/in/alan-taylor-/
 - Email: alanjtaylor.1776@gmail.com
 
 ---
