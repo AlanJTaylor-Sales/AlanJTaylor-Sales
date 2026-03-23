@@ -1,35 +1,38 @@
-# Alan J Taylor
+# Alan Taylor | SaaS & AI Go-to-Market Leader
 
-**Enterprise Sales Leader | SaaS | AI | GTM Strategy**
+I am a growth and go-to-market leader focused on building and scaling SaaS and AI-driven businesses.
 
-I build pipeline from scratch, close complex deals, and turn technical solutions into measurable business outcomes.
-
----
+My background spans enterprise software, predictive analytics, and hands-on business ownership, where I’ve led market expansion, pipeline development, and revenue growth across complex and competitive markets.
 
 ## What I Focus On
-- Enterprise Sales
-- Pipeline Creation
-- GTM Strategy
-- Value-Based Selling
-- AI in Sales Workflows
 
----
+• Go-to-market strategy and market expansion  
+• Pipeline generation and revenue growth systems  
+• SaaS and AI solution positioning  
+• Customer acquisition, activation, and retention  
+• Aligning product value with real-world customer needs  
 
-## Portfolio & Work
-- Portfolio: https://pentagonal-ranunculus-633.notion.site/Alan-J-Taylor-328f943cbbf080e99e47e97064bc694b?source=copy_link
-- Sales Playbook: https://github.com/AlanJTaylor-Sales
-- LinkedIn: https://www.linkedin.com/in/alan-taylor-/
-- Email: alanjtaylor.1776@gmail.com
+## Why GitHub
 
----
+This space reflects how I think and experiment with:
 
-## What You’ll Find Here
-This GitHub is a snapshot of how I think about:
-- Building pipeline
-- Closing complex deals
-- Using AI in modern sales workflows
+• AI-driven tools for market intelligence and planning  
+• Data structuring and extraction (e.g., regulatory and structured datasets)  
+• Go-to-market systems and frameworks  
+• Industry-specific applications of AI  
 
----
+I believe the next evolution of go-to-market will be driven by the intersection of:
+→ AI  
+→ data  
+→ customer insight  
+→ execution discipline  
 
-## Closing Thought
-I don’t just sell—I build the systems and momentum that drive repeatable growth.
+## Background
+
+• SaaS & AI go-to-market leadership (Autodesk, Atonix Digital)  
+• Enterprise sales and market expansion  
+• Built and operated a business (full lifecycle GTM ownership)  
+
+## Connect
+
+LinkedIn: https://linkedin.com/in/alan-taylor  
